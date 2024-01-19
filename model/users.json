@@ -1,0 +1,17 @@
+[
+    {
+        "username": "myuser1",
+        "password": "$2b$10$Ozvhfw9SiHLv/Ls/RUu74eW0L0Pt11L7SJ73GmVoyD5O1Eqki6/bK",
+        "roles": {"User": 2001, "Editor": 1984}
+    },
+    {
+        "username": "camper",
+        "password": "$2b$10$.wUG.fRcZbtxHzBCBaUooutOfNymbJoDliTy6t4R4USBpVzrdgKm2",
+        "roles": {"User": 2001}
+    },
+    {
+        "username": "admin",
+        "password": "$2b$10$dr/f/jcYHP9W/lCfgHORvufiWImY6syHz59xqBcB2oAzjNbPD6kZa",
+        "roles": {"Admin": 5150}
+    }
+]

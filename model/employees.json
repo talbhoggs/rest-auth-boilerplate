@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "firstname": "Dave1",
+        "lastname": "Gray1",
+        "email": "dave@gmail.com"
+    },
+    {
+        "id": 2,
+        "firstname": "John",
+        "lastname": "Smith",
+        "email": "john@gmail.com"
+    },
+    {
+        "id": 1088378172,
+        "firstname": "Charles",
+        "lastname": "Amper",
+        "email": "camper1@gmail.com"
+    },
+    {
+        "id": 993605671,
+        "firstname": "Charle1s1",
+        "lastname": "Amper",
+        "email": "camper111@gmail.com"
+    },
+    {
+        "id": 2647874735,
+        "firstname": "asdf",
+        "lastname": "Amper",
+        "email": "asdf@gmail.com"
+    }
+]
