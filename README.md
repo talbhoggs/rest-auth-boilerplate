@@ -13,6 +13,15 @@ This project is a Rest app built with node js. It demonstrates how to implement 
 
 ### Installation
 
+#### Precondition:
+0: Create .env file
+```
+ACCESS_TOKEN_SECRET=<TOKEN_1>
+REFRESH_TOKEN_SECRET=<TOKEN_2>
+DATABASE_URI=mongodb://127.0.0.1:27017/companyDB
+```
+
+Steps:
 1. First, you need to set up a local mongodb database using a docker image. In this example, we are using podman as the container engine. To run the mongodb image, use this command:
 
 ```
@@ -54,6 +63,12 @@ GET /api/v2/employees/:id
 PUT /api/v2/employees/:id
 DELETE /api/v2/employees/:id [ADMIN]
 ```
+
+#### Backlog 
+1. Swagger integration
+2. <strike>Add Linting</strike>
+3. Add releases
+4. Refactor code
 
 [^1]: [gitdagray](https://github.com/gitdagray/mongo_async_crud)
 [^2]: [DaveGray](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PFkIxaJ6Xx_X46avTM1aYw)
