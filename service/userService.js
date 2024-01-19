@@ -1,8 +1,8 @@
 const Users = {
-    users: require('../model/users.json'),
-    setUsers: function (users) {
-        this.users = users;
-    },
+  users: require('../model/users.json'),
+  setUsers(users) {
+    this.users = users;
+  },
 };
 
-module.exports = {...Users};
+module.exports = { ...Users };
